@@ -1,2 +1,4 @@
 # Hello-World
-My first repository
+## 我进入GitHub的第一个仓库
+* 主要用来存放在‘饥人谷’学习阶段所做的实践任务的代码
+
